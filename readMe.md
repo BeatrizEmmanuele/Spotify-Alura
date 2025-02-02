@@ -1,0 +1,1 @@
+Olá me chamo Beatriz, estou no 7º período da faculdade de Ciência da Computação na UNIPÊ-PB. Sou Desenvolvedora FrontEnd<3
